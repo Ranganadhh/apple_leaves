@@ -1,13 +1,6 @@
-backcall==0.1.0
-backports.functools-lru-cache==1.5
-backports.os==0.1.1
-backports.shutil-get-terminal-size==1.0.0
-backports.tempfile==1.0
-backports.weakref==1.0.post1
 Bottleneck==1.2.1
 decorator==4.4.0
 Flask==1.1.1
-glob2==0.7
 google-auth==1.11.3
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
@@ -29,8 +22,6 @@ Keras==2.3.1
 Keras-Applications==1.0.8
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
-Markdown==3.2.1
-MarkupSafe==1.1.1
 matplotlib==3.1.1
 notebook==6.0.1
 numpy==1.19.5
@@ -38,13 +29,9 @@ numpydoc==0.9.1
 path.py==12.0.1
 spyder==3.3.6
 spyder-kernels==0.5.2
-tensorboard==2.5.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.0
 tensorflow==2.5.0
 tensorflow-estimator==2.5.0
 testpath==0.4.2
 validators==0.17.1
 webencodings==0.5.1
 Werkzeug==0.16.0
-zipp==0.6.0
