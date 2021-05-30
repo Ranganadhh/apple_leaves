@@ -55,5 +55,4 @@ urllib3==1.24.2
 validators==0.17.1
 webencodings==0.5.1
 Werkzeug==0.16.0
-xlwings==0.15.10
 zipp==0.6.0
