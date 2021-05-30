@@ -5,13 +5,8 @@ backports.shutil-get-terminal-size==1.0.0
 backports.tempfile==1.0
 backports.weakref==1.0.post1
 Bottleneck==1.2.1
-conda==4.8.2
-conda-build==3.18.11
-conda-package-handling==1.6.0
-conda-verify==3.4.2
 decorator==4.4.0
 Flask==1.1.1
-flatbuffers==1.12
 glob2==0.7
 google-auth==1.11.3
 google-auth-oauthlib==0.4.1
